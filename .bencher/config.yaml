@@ -1,5 +1,3 @@
-# Configuration docs: https://bencher.orijtech.com/configuration/
-suppress_failure_on_regression: false
-global:
-  reg_min: 10
-  imp_min: -10
+# Configuration docs: https://bencher.orijtech.com/configuration/ suppress_failure_on_regression: false 
+global:reg_min: 10
+imp_min: -10
